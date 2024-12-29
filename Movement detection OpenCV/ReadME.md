@@ -1,8 +1,4 @@
-# OpenCV Projects
-
-This repository contains Python projects utilizing OpenCV for computer vision tasks. The projects demonstrate fundamental and advanced techniques in video analysis, motion detection, and face detection, providing a strong foundation for machine learning and deep learning applications in computer vision.
-
-## Projects Included
+# OpenCV
 
 ### 1. Movement Detection
 **File:** `detect_motion.py`  
@@ -65,24 +61,6 @@ pip install opencv-python numpy
   ```
 - Ensure your webcam is connected and accessible.
 
-## Demo
-
-### Movement Detection
-![Movement Detection Demo](placeholder_for_demo.gif)  
-Visualizes detected motion with bounding boxes.
-
-### Face and Feature Detection
-![Face Detection Demo](placeholder_for_demo.gif)  
-Shows live detections of faces, eyes, and smiles.
-
-## Future Enhancements
-- Integrate deep learning models for more accurate and robust detection.
-- Expand motion detection to track and classify detected objects.
-- Add support for multiple camera inputs.
-
 ## Acknowledgments
 - OpenCV Documentation and Tutorials: https://docs.opencv.org
 - Haar Cascade XML files provided by OpenCV.
-
-## License
-This repository is licensed under the MIT License. Feel free to use and modify the code for personal or commercial purposes.
